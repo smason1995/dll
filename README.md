@@ -4,7 +4,7 @@
     Doubly linked list API written in C that can take an data type. Should be compatible with C++ too.
 
 ### How to use:
-    - Run: `gcc -c -g dll.c`
+    - Run: gcc -c -g dll.c
     - Compile your C/C++ program with object file
         (i.e. gcc main.c dll.o)
 
