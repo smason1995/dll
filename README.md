@@ -1,9 +1,7 @@
 # GENERIC DOUBLY LINKED LIST
 
 ### Desc:
-    Doubly linked list API written in C that
-can take an data type. Should be compatible with C++
-too.
+    Doubly linked list API written in C that can take an data type. Should be compatible with C++ too.
 
 ### How to use:
     - Run: gcc -c -g dll.c
